@@ -3,3 +3,6 @@ version: '0.0.1-Damo'
 main: hn.blacknight0981.hNItem.HNItem
 api-version: '1.21'
 authors: [ HN ]
+
+depend:
+  - HNLib
